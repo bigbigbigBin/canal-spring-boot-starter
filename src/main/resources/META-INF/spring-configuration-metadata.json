@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.stdp.start.canal.config.CanalConfig",
+      "name": "canal.client",
+      "type": "com.stdp.start.canal.config.CanalConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.stdp.start.canal.config.CanalConfig",
+      "name": "canal.client.instances",
+      "type": "java.util.Map<java.lang.String,com.stdp.start.canal.config.CanalConfig.Instance>"
+    }
+  ]
+}
